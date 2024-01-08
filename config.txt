@@ -1,0 +1,5 @@
+username="admin"
+password= "testpassword"
+email="hello@xyz.com"
+api_key="ijwqoidj3qkwndkn2o290jiddmkmk3oO"
+
